@@ -1,0 +1,61 @@
+body{ 
+background-color: #060609;
+}
+.panel-bg{
+	background: radial-gradient(circle, rgba(3,15,46,1) 0%, rgba(6,6,9,1) 100%);
+}
+.panel-container{
+	background: radial-gradient(circle, rgba(3,15,46,1) 0%, rgba(6,6,9,1) 100%);
+	border-radius: 20px;
+	border-color: #00CCFF;
+	box-shadow: 0px 0px 10px 0px rgba(0,204,255,40);
+}
+.panel-header-hover-bg{
+	background-color: rgba(0,204,255,1);
+}
+.page-header-bg{
+	background: rgba(0,204,255,0.16);
+}
+.headings-color{
+	color: #00CCFF;
+}
+.colors-action-hover{
+	background: #00CCFF;
+}
+.colors-action-selected{
+	background: #00CCFF;
+}
+.btn-primary-bg{
+	background: #00CCFF;
+}
+.btn-secondary-bg{
+	background: #0C82E8;
+}
+.input-bg{
+	background: #111217;
+}
+.input-color{
+	background: #060609;
+}
+.input-border-color{
+	border-color: #00CCFF;
+}
+.input-box-shadow{
+	box-shadow: 0px 0px 10px 0px rgba(0,204,255,40);
+}
+.dropdownBackground{
+	background: radial-gradient(circle, rgba(3,15,46,1) 0%, rgba(6,6,9,1) 100%);
+}
+.dropdownBorder{
+	border-color: #00CCFF;
+}
+.dropdownShadow{
+	box-shadow: 0px 0px 10px 0px rgba(0,204,255,40);
+}
+.navbarBorder{
+	border-width: 1px;
+	border-color: #00CCFF;
+}
+.page-header-bg{
+	background: radial-gradient(circle, rgba(3,15,46,1) 0%, rgba(6,6,9,1) 100%;
+}
